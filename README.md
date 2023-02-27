@@ -1,5 +1,5 @@
 # Puissance4
-# Ce dépôt est composé de 3 programmes python ayant chacun une interface différente.
+# 3 programmes python ayant chacun une interface  graphique différente.
 
 
 Nous avons dans une première version, un puissance 4 où sont interface graphique se situe dans la console.
